@@ -1,4 +1,4 @@
-# follow-me
+# Jens van Wijhe
 
 Hi, my name is Jens. 
 
@@ -11,4 +11,4 @@ Feel free to follow me:
 * [Twitter](https://twitter.com/jvanwijhe)  
 * [Instagram](https://www.instagram.com/jvanwijhe/)  
 
- <a href="https://www.jens.ai">Developer portfolio</a>
+Visit my  <a href="https://www.jens.ai" rel="follow">Developer portfolio</a>
