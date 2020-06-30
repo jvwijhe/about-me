@@ -6,7 +6,7 @@ Hi, my name is Jens.
 
 Feel free to follow me:
 
-
+* [Hiking blog](https://www.jens.global)  
 * [Developer portfolio](https://www.jens.ai)  
 * [Twitter](https://twitter.com/jvanwijhe)  
 * [Instagram](https://www.instagram.com/jvanwijhe/)  
