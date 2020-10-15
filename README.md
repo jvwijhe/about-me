@@ -10,3 +10,6 @@ Feel free to follow me:
 * [Developer portfolio](https://www.jens.ai)  
 * [Twitter](https://twitter.com/jvanwijhe)  
 * [Instagram](https://www.instagram.com/jvanwijhe/)  
+
+
+[![Check me out hiking the Alps](https://img.youtube.com/vi/lSM0VAqSOeg/0.jpg)](https://www.youtube.com/watch?v=lSM0VAqSOeg)
