@@ -8,5 +8,8 @@ Feel free to follow me:
 
 
 * [Developer portfolio](https://www.jens.ai)  
-* [Twitter](https://twitter.com/jvanwijhe)  
-* [Instagram](https://www.instagram.com/jvanwijhe/)  
+* [Hiking blog ](https://www.jens.global)  
+* [Webdevelopment agency ](https://www.beterbekend.nl)  
+* [Grrp.me ](https://grrp.me)   
+* [Twitter](https://twitter.com/jensvanwijhe)  
+* [Instagram](https://www.instagram.com/jensvanwijhe/)  
